@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 70080dc3366131e4cbab2618541dc098
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kursunCikisYeri: {instanceID: 0}
+  - kursun: {fileID: 6471150216983279308, guid: fee1e0a422716af46b2e7cb4e79111fb,
+      type: 3}
+  - Kamera: {instanceID: 0}
+  - SilahYeri: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
